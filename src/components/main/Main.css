@@ -1,0 +1,51 @@
+.main__container {
+  max-width: 1770px;
+  width: 100%;
+  margin: 0 auto;
+  background-image: url("../../assets/images/main-background.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 32px;
+  padding: 100px 0 100px 80px;
+}
+
+.main__container-title {
+  color: rgb(255, 255, 255);
+  font-family: Montserrat;
+  font-size: 70px;
+  font-weight: 800;
+  line-height: 85px;
+  letter-spacing: 0%;
+  text-align: left;
+  max-width: 837px;
+  width: 100%;
+}
+
+.main__container-text {
+  color: rgb(255, 255, 255);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 29px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-top: 24px;
+  margin-bottom: 90px;
+  max-width: 790px;
+  width: 100%;
+}
+
+.main__container-btn {
+  color: rgb(255, 255, 255);
+  font-family: Montserrat;
+  font-size: 23px;
+  font-weight: 700;
+  line-height: 28px;
+  letter-spacing: 0%;
+  text-align: center;
+  padding: 25px 39px;
+  border-radius: 16px;
+  background: rgb(255, 153, 0);
+  border: none;
+  cursor: pointer;
+}
